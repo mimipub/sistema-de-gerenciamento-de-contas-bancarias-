@@ -1,0 +1,1 @@
+alter table equipamentos add patrimonio varchar(100) not null;
