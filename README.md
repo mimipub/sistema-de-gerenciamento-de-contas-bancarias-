@@ -35,7 +35,7 @@ O objetivo é facilitar o controle dos recursos da empresa, reduzir falhas nos r
 1. Clone o repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone (https://github.com/mimipub/sistema-de-gerenciamento-de-contas-bancarias-.git)
    ```
 
 2. Acesse a pasta do projeto:
